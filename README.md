@@ -1,7 +1,5 @@
 ### Привет всем 👋
   Я работаю над нейросетями, делаю COLAB версии их, паррарельно изучаю python и gradio.
-  
-  Любой вопрос можешь задать мне в <a href=https://t.me/NeuroDonu>telegram</a>
   <br><br><br>
   [![Мои языки](https://github-readme-stats.vercel.app/api/top-langs/?username=neurodonu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   <br><br><br>
